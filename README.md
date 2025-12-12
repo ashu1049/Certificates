@@ -7,13 +7,13 @@
 - [HackerRank](https://www.hackerrank.com/profile/ashutoshthorat2)
 
 ## 🧾 Certificates
-- [Java Course – Firstbit](https://link-to-your-java-certificate.pdf)
-- [Dsa](https://link-to-your-oops-certificate.pdf)
-- [SQL Certificate](https://link-to-your-sql-certificate.pdf)
+- [Java Course – Firstbit](https://github.com/ashu1049/Certificates/blob/main/FirstBit.pdf)
+- [Dsa](https://github.com/ashu1049/Certificates/blob/main/FirstBit.pdf)
+- [SQL Certificate]([https://github.com/ashu1049/Certificates/blob/main/Codsoft.pdf](https://github.com/ashu1049/Certificates/blob/main/FirstBit.pdf))
 
 - ## 💼 Internship
 - CodSoft Web Development Internship  
-  [Internship Certificate](https://link-to-your-internship-certificate.pdf)
+  [Internship Certificate](https://github.com/ashu1049/Certificates/blob/main/Codsoft.pdf)
 
 ## 📄 Resume
 - [Download Resume](https://link-to-your-resume.pdf)
