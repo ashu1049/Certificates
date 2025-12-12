@@ -16,4 +16,4 @@
   [Internship Certificate](https://github.com/ashu1049/Certificates/blob/main/Codsoft.pdf)
 
 ## 📄 Resume
-- [Download Resume](https://link-to-your-resume.pdf)
+- [Download Resume](https://github.com/ashu1049/Certificates/blob/main/Ashutosh_Thorat_Resume.pdf)
