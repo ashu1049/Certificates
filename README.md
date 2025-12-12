@@ -9,7 +9,7 @@
 ## 🧾 Certificates
 - [Java Course – Firstbit](https://github.com/ashu1049/Certificates/blob/main/FirstBit.pdf)
 - [Dsa](https://github.com/ashu1049/Certificates/blob/main/FirstBit.pdf)
-- [SQL Certificate]([https://github.com/ashu1049/Certificates/blob/main/Codsoft.pdf](https://github.com/ashu1049/Certificates/blob/main/FirstBit.pdf)
+- [SQL Certificate](https://github.com/ashu1049/Certificates/blob/main/FirstBit.pdf)
 
 - ## 💼 Internship
 - CodSoft Web Development Internship  
